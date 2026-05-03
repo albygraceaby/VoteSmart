@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "year": 1960,
+    "title": "The Television Debate Election",
+    "description": "It's 1960. Two candidates face off in the first-ever televised presidential debate. Candidate A is young, charismatic, and telegenic. Candidate B is experienced, knowledgeable, but appears tired and unshaven on camera. Radio listeners thought B won the debate, but TV viewers overwhelmingly favored A.",
+    "candidates": [
+      {
+        "id": "A",
+        "name": "Senator James Mitchell",
+        "party": "Progressive Party",
+        "platform": "Youth, innovation, space exploration, civil rights advancement",
+        "personality": "Charismatic, young, media-savvy"
+      },
+      {
+        "id": "B",
+        "name": "Vice President Richard Hale",
+        "party": "Conservative Party",
+        "platform": "Experience, foreign policy strength, fiscal responsibility",
+        "personality": "Experienced, policy-focused, poor media presence"
+      }
+    ],
+    "actualWinner": "A",
+    "consequences": "The winner launched the space program, navigated a nuclear crisis, and advanced civil rights legislation. However, media image began to dominate politics, shifting focus from policy substance to appearance.",
+    "lesson": "This election demonstrated how television changed politics forever. Voters increasingly judged candidates by appearance and charisma rather than policy substance. Critical thinking means looking beyond image to evaluate actual proposals."
+  },
+  {
+    "id": 2,
+    "year": 1984,
+    "title": "The Economic Boom Election",
+    "description": "It's 1984. The economy has recovered from a deep recession. The incumbent president claims credit for the recovery, while the challenger argues the growth is built on unsustainable debt and inequality is rising sharply.",
+    "candidates": [
+      {
+        "id": "A",
+        "name": "President Ronald Sterling",
+        "party": "Free Market Party",
+        "platform": "Tax cuts, deregulation, military strength, optimistic nationalism",
+        "personality": "Optimistic, great communicator, folksy charm"
+      },
+      {
+        "id": "B",
+        "name": "Senator Diana Chen",
+        "party": "Social Democratic Party",
+        "platform": "Deficit reduction, social programs, environmental protection, fair taxation",
+        "personality": "Wonkish, detail-oriented, serious"
+      }
+    ],
+    "actualWinner": "A",
+    "consequences": "Economic growth continued short-term but national debt tripled. Deregulation led to financial sector instability. Income inequality widened significantly over the next decade.",
+    "lesson": "Short-term economic gains don't always mean long-term prosperity. Voters should examine not just current conditions but the sustainability of economic policies and their impact on future generations."
+  },
+  {
+    "id": 3,
+    "year": 2008,
+    "title": "The Crisis Election",
+    "description": "It's 2008. A massive financial crisis has destroyed millions of jobs and wiped out savings. One candidate promises sweeping change and government intervention, while the other advocates for market-based solutions and experience.",
+    "candidates": [
+      {
+        "id": "A",
+        "name": "Senator Marcus Webb",
+        "party": "Reform Alliance",
+        "platform": "Economic stimulus, healthcare reform, financial regulation, hope and change",
+        "personality": "Inspiring orator, grassroots organizer, historic candidacy"
+      },
+      {
+        "id": "B",
+        "name": "Senator Patricia Knox",
+        "party": "Stability Coalition",
+        "platform": "Free market solutions, military experience, bipartisanship, gradual reform",
+        "personality": "War hero, experienced senator, maverick reputation"
+      }
+    ],
+    "actualWinner": "A",
+    "consequences": "The stimulus package stabilized the economy but recovery was slow. Healthcare reform expanded coverage to millions but faced fierce opposition. The financial system was reformed but many felt regulations didn't go far enough.",
+    "lesson": "During crises, voters must balance the appeal of dramatic change against practical governance experience. Bold promises need to be evaluated against realistic implementation challenges."
+  },
+  {
+    "id": 4,
+    "year": 2016,
+    "title": "The Populist Uprising",
+    "description": "It's 2016. Globalization has left many workers behind. Social media is rife with misinformation. An anti-establishment outsider promises to 'drain the swamp' and bring back lost industries, while a career politician offers steady, experienced governance.",
+    "candidates": [
+      {
+        "id": "A",
+        "name": "Business tycoon Victor Crane",
+        "party": "People's Movement",
+        "platform": "Anti-immigration, trade protectionism, anti-establishment, law and order",
+        "personality": "Brash, unpredictable, master of social media"
+      },
+      {
+        "id": "B",
+        "name": "Secretary Eleanor Price",
+        "party": "Progressive Alliance",
+        "platform": "Continuity, global cooperation, incremental reform, experience",
+        "personality": "Highly qualified, policy expert, perceived as elitist"
+      }
+    ],
+    "actualWinner": "A",
+    "consequences": "Trade wars disrupted global supply chains. Immigration policies were controversial and divisive. Social media manipulation reached new heights. Political polarization deepened significantly.",
+    "lesson": "Populist messaging can be powerful but oversimplified. Voters should fact-check claims about easy solutions to complex problems and be wary of politicians who offer simple answers to complicated questions."
+  }
+]

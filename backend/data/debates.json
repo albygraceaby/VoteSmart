@@ -1,0 +1,95 @@
+[
+  {
+    "topic": "Jobs",
+    "stances": {
+      "support": {
+        "arguments": [
+          "Government job programs have historically reduced unemployment during recessions, such as the New Deal in the 1930s.",
+          "Investing in job training programs helps workers adapt to changing industries and reduces structural unemployment.",
+          "Public sector employment provides stable jobs with benefits, supporting middle-class families.",
+          "Infrastructure projects create millions of direct and indirect jobs while improving national productivity."
+        ],
+        "counterpoints": [
+          "While government jobs cost taxpayer money, they generate economic returns through increased consumer spending.",
+          "Private sector alone cannot address unemployment in underserved areas — government intervention fills critical gaps.",
+          "Studies show every $1 spent on infrastructure generates $1.50 in economic activity."
+        ]
+      },
+      "oppose": {
+        "arguments": [
+          "Government job programs often create artificial employment that isn't sustainable long-term.",
+          "The private sector is more efficient at job creation and resource allocation than government programs.",
+          "Excessive government hiring increases the tax burden on businesses, potentially reducing private sector jobs.",
+          "Market-driven solutions better match worker skills with employer needs."
+        ],
+        "counterpoints": [
+          "While the private sector is efficient, it often ignores unprofitable but socially necessary work.",
+          "Tax incentives for businesses have mixed results — many companies pocket savings without creating new positions.",
+          "Deregulation doesn't guarantee job growth and can lead to exploitation of workers."
+        ]
+      }
+    }
+  },
+  {
+    "topic": "Environment",
+    "stances": {
+      "support": {
+        "arguments": [
+          "Climate change poses an existential threat — aggressive policy action is needed now to prevent catastrophic outcomes.",
+          "Renewable energy is now cost-competitive with fossil fuels and creates more jobs per dollar invested.",
+          "Environmental regulations protect public health, reducing healthcare costs by billions annually.",
+          "Green infrastructure investment drives innovation and positions the country as a global technology leader."
+        ],
+        "counterpoints": [
+          "The cost of inaction far exceeds the cost of environmental protection — climate disasters cost trillions.",
+          "Renewable energy prices have dropped 90% in a decade, making the economic argument stronger than ever.",
+          "Countries leading in green technology are seeing massive economic growth and job creation."
+        ]
+      },
+      "oppose": {
+        "arguments": [
+          "Aggressive environmental regulations increase costs for businesses and consumers, hurting economic growth.",
+          "Energy transitions should be gradual to avoid disrupting communities dependent on fossil fuel industries.",
+          "Market-based solutions like carbon trading are more efficient than government mandates.",
+          "Developing nations shouldn't bear the same burden as industrialized nations that caused most emissions."
+        ],
+        "counterpoints": [
+          "While transitions are costly short-term, fossil fuel dependence creates long-term economic vulnerability.",
+          "Carbon taxes can be designed to be revenue-neutral, returning money to citizens while incentivizing clean energy.",
+          "Innovation thrives under regulatory pressure — catalytic converters and CFCs bans proved this."
+        ]
+      }
+    }
+  },
+  {
+    "topic": "Economy",
+    "stances": {
+      "support": {
+        "arguments": [
+          "Progressive taxation ensures the wealthy pay their fair share and funds essential public services.",
+          "Strong social safety nets reduce poverty and increase economic mobility for all citizens.",
+          "Government investment in education and healthcare creates a more productive workforce.",
+          "Regulated markets prevent monopolies and protect consumers from exploitation."
+        ],
+        "counterpoints": [
+          "Countries with strong social programs like Scandinavia consistently rank highest in quality of life and economic competitiveness.",
+          "Universal healthcare reduces overall costs — the US spends more per capita than nations with public systems.",
+          "Education investment has the highest ROI of any government spending category."
+        ]
+      },
+      "oppose": {
+        "arguments": [
+          "Lower taxes stimulate economic growth by giving businesses and individuals more capital to invest.",
+          "Free markets allocate resources more efficiently than government central planning.",
+          "Excessive regulation stifles innovation and entrepreneurship.",
+          "Individual economic freedom is a fundamental right that government intervention undermines."
+        ],
+        "counterpoints": [
+          "While low taxes can stimulate growth, they often primarily benefit the already wealthy, increasing inequality.",
+          "Completely free markets have historically led to monopolies, child labor, and environmental destruction.",
+          "Smart regulation creates level playing fields that actually enable more competition and innovation."
+        ]
+      }
+    }
+  }
+]

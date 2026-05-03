@@ -1,0 +1,85 @@
+[
+  {
+    "stage": 1,
+    "title": "Welcome to Democracy",
+    "type": "intro",
+    "content": "Congratulations! You've just turned 18 and this is your first election. The country is buzzing with political campaigns, news coverage, and social media debates. Your vote matters — but first, you need to understand what's at stake.",
+    "image": "🗳️",
+    "options": [
+      { "text": "Start exploring the political landscape", "next": 2 }
+    ]
+  },
+  {
+    "stage": 2,
+    "title": "The Morning News",
+    "type": "news",
+    "content": "You turn on the TV and see two major stories:\n\n📺 **Channel A**: 'Economy growing at record pace! Government takes credit for 8% GDP growth.'\n\n📺 **Channel B**: 'Despite GDP growth, unemployment hits 5-year high. Youth struggle to find jobs.'\n\nBoth channels are reporting on the same economy but telling very different stories.",
+    "image": "📺",
+    "decision": "Which news source do you trust more?",
+    "options": [
+      { "text": "Channel A — The economy IS growing", "next": 3, "trait": "optimistic", "bias": "confirmation" },
+      { "text": "Channel B — Jobs matter more than GDP", "next": 3, "trait": "critical", "bias": "none" },
+      { "text": "Both have valid points — I need more data", "next": 3, "trait": "analytical", "bias": "none" }
+    ]
+  },
+  {
+    "stage": 3,
+    "title": "Campaign Rally",
+    "type": "campaign",
+    "content": "You attend a campaign rally. The candidate gives a passionate speech:\n\n🎤 'I promise FREE healthcare, FREE education, ZERO taxes for the middle class, and we'll DOUBLE the defense budget! All within my first year!'\n\nThe crowd goes wild. Your friend says 'This candidate gets it!' But something feels off...",
+    "image": "🎤",
+    "decision": "How do you react?",
+    "options": [
+      { "text": "This sounds too good to be true — where's the money coming from?", "next": 4, "trait": "critical_thinker", "bias": "none" },
+      { "text": "Finally a leader with bold vision! I'm convinced.", "next": 4, "trait": "idealistic", "bias": "bandwagon" },
+      { "text": "I'll check their detailed policy document before deciding", "next": 4, "trait": "researcher", "bias": "none" }
+    ]
+  },
+  {
+    "stage": 4,
+    "title": "Social Media Storm",
+    "type": "social_media",
+    "content": "Your social media feed is flooded with political posts:\n\n📱 A viral video shows a candidate making controversial remarks — but it's only 5 seconds long and clearly edited.\n\n📱 A fact-checking organization rates the video as 'misleading — taken out of context.'\n\n📱 Your family WhatsApp group is sharing the video with angry emojis.",
+    "image": "📱",
+    "decision": "What do you do?",
+    "options": [
+      { "text": "Share the video — people deserve to know!", "next": 5, "trait": "impulsive", "bias": "misinformation_spread" },
+      { "text": "Check the fact-check and share THAT instead", "next": 5, "trait": "responsible", "bias": "none" },
+      { "text": "Ignore it all — social media is toxic", "next": 5, "trait": "disengaged", "bias": "apathy" }
+    ]
+  },
+  {
+    "stage": 5,
+    "title": "The Debate Night",
+    "type": "debate",
+    "content": "The two main candidates face off in a televised debate:\n\n🔵 **Candidate Alpha** focuses on economic data, charts, and specific policy proposals. Their delivery is dry but substantive.\n\n🔴 **Candidate Beta** uses emotional stories, humor, and personal attacks. The audience laughs and cheers frequently.\n\nThe media declares Beta the 'winner' of the debate based on audience reaction.",
+    "image": "🎭",
+    "decision": "Who do you think won the debate?",
+    "options": [
+      { "text": "Alpha — substance matters more than style", "next": 6, "trait": "policy_focused", "bias": "none" },
+      { "text": "Beta — connecting with people IS leadership", "next": 6, "trait": "people_focused", "bias": "charisma" },
+      { "text": "Neither 'won' — debates aren't competitions, they're informational", "next": 6, "trait": "nuanced_thinker", "bias": "none" }
+    ]
+  },
+  {
+    "stage": 6,
+    "title": "Election Day",
+    "type": "voting",
+    "content": "It's election day. You've followed the campaigns, watched debates, and navigated social media. Now it's time to cast your vote.\n\nRemember:\n- You evaluated news from multiple sources\n- You attended rallies and assessed promises\n- You navigated misinformation on social media\n- You watched candidates debate\n\nYour vote should reflect YOUR values, priorities, and informed judgment — not what others told you to think.",
+    "image": "🗳️",
+    "decision": "Cast your vote based on your journey:",
+    "options": [
+      { "text": "Vote for Candidate Alpha — policy and substance", "next": 7, "trait": "policy_voter", "bias": "none" },
+      { "text": "Vote for Candidate Beta — connection and vision", "next": 7, "trait": "vision_voter", "bias": "none" },
+      { "text": "Vote NOTA — neither candidate earned my trust", "next": 7, "trait": "protest_voter", "bias": "none" }
+    ]
+  },
+  {
+    "stage": 7,
+    "title": "Your Democratic Journey",
+    "type": "summary",
+    "content": "Your first election journey is complete! Here's what you demonstrated:\n\nAs a first-time voter, you navigated news bias, campaign promises, social media misinformation, and public debates. Every decision you made shaped your perspective.\n\n🎓 **Key Takeaway**: Democracy isn't just about voting day — it's about the critical thinking you apply throughout the entire process. Stay informed, stay skeptical, and always verify before you trust.",
+    "image": "🎓",
+    "options": []
+  }
+]

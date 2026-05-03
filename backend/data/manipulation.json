@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "type": "speech",
+    "content": "Our party has ALWAYS stood for the people. Unlike our opponents who want to DESTROY your way of life, we are the ONLY ones who can save this nation from total collapse. Every family will suffer if you don't vote for us!",
+    "manipulations": [
+      {
+        "type": "emotional_appeal",
+        "highlight": "DESTROY your way of life",
+        "explanation": "Uses fear-mongering language to create panic rather than presenting factual policy differences."
+      },
+      {
+        "type": "false_claim",
+        "highlight": "we are the ONLY ones who can save this nation",
+        "explanation": "Presents an absolute claim with no evidence. No single party is the only solution to complex problems."
+      },
+      {
+        "type": "emotional_appeal",
+        "highlight": "Every family will suffer if you don't vote for us",
+        "explanation": "Uses threat-based emotional manipulation to pressure voters instead of explaining specific policies."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "advertisement",
+    "content": "BREAKING: New study shows 95% of citizens support our education reform! Our plan will create 10 million jobs in just 6 months. The opposition has ZERO plans for your children's future. Share this before they delete it!",
+    "manipulations": [
+      {
+        "type": "misuse_of_data",
+        "highlight": "95% of citizens support our education reform",
+        "explanation": "Vague 'study' with no source cited. The sample size, methodology, and who conducted it are unknown — this is a classic misuse of statistics."
+      },
+      {
+        "type": "false_claim",
+        "highlight": "create 10 million jobs in just 6 months",
+        "explanation": "An unrealistic promise with no economic basis. Major job creation programs typically take years to show results."
+      },
+      {
+        "type": "emotional_appeal",
+        "highlight": "Share this before they delete it",
+        "explanation": "Creates false urgency and conspiracy thinking to encourage viral sharing without fact-checking."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "social_media_post",
+    "content": "I just visited a small village where people told me they haven't eaten in DAYS because of the current government's policies. This is what happens when you elect corrupt leaders. Our party distributed food to 50,000 families last month alone. Time for REAL change! 🇮🇳",
+    "manipulations": [
+      {
+        "type": "emotional_appeal",
+        "highlight": "people told me they haven't eaten in DAYS",
+        "explanation": "Anecdotal evidence used to create an emotional response. No verification of the claim or context about broader food security data."
+      },
+      {
+        "type": "misuse_of_data",
+        "highlight": "distributed food to 50,000 families last month",
+        "explanation": "Unverifiable statistic presented without documentation. Campaign claims about charitable work should be backed by independent verification."
+      },
+      {
+        "type": "false_claim",
+        "highlight": "because of the current government's policies",
+        "explanation": "Attributes complex socioeconomic issues to a single cause without evidence of direct policy impact."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "speech",
+    "content": "My opponent graduated from an elite university while YOUR children struggle to find school seats. They vacation abroad while YOU can't afford medicine. This election is simple: the rich elites vs. the common people. And I am one of YOU.",
+    "manipulations": [
+      {
+        "type": "emotional_appeal",
+        "highlight": "YOUR children struggle to find school seats",
+        "explanation": "Creates an us-vs-them narrative using emotional class-based appeal rather than discussing education policy specifics."
+      },
+      {
+        "type": "false_claim",
+        "highlight": "I am one of YOU",
+        "explanation": "Politicians often claim to be 'common people' regardless of their actual wealth or background. This should be verified against their actual financial disclosures."
+      },
+      {
+        "type": "emotional_appeal",
+        "highlight": "the rich elites vs. the common people",
+        "explanation": "Oversimplifies complex political choices into a binary class struggle, ignoring policy nuances."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "advertisement",
+    "content": "EXPOSED: The opposition leader's secret meeting with foreign agents caught on camera! Sources confirm a deal that will sell our country's resources. Independent experts agree this is the biggest threat to national sovereignty. Act now — share this truth!",
+    "manipulations": [
+      {
+        "type": "false_claim",
+        "highlight": "secret meeting with foreign agents caught on camera",
+        "explanation": "Presents unverified conspiracy theory as fact. No evidence, source, or camera footage is actually provided."
+      },
+      {
+        "type": "misuse_of_data",
+        "highlight": "Independent experts agree",
+        "explanation": "Appeals to unnamed 'experts' without identifying who they are, their credentials, or where they published their analysis."
+      },
+      {
+        "type": "emotional_appeal",
+        "highlight": "Act now — share this truth",
+        "explanation": "Creates urgency to share unverified information, a classic misinformation spreading tactic."
+      }
+    ]
+  }
+]
