@@ -2,7 +2,7 @@
 
 An interactive full-stack civic-tech web application with 10 educational modules about elections, policy-making, media literacy, and critical thinking.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer       | Technology                      |
 |-------------|----------------------------------|
@@ -14,7 +14,7 @@ An interactive full-stack civic-tech web application with 10 educational modules
 | Animations  | Framer Motion                    |
 | Icons       | Lucide React                     |
 
-## 🚀 Getting Started (Local Development)
+##  Getting Started (Local Development)
 
 ### Prerequisites
 - Node.js 18+ installed
@@ -37,7 +37,7 @@ npm run dev:frontend
 ```
 App runs on http://localhost:5173
 
-## 🌐 Deployment (Render.com)
+##  Deployment (Render.com)
 
 ### Option 1: One-Click Deploy
 1. Push this repo to GitHub
@@ -72,7 +72,7 @@ npm start
 ```
 The backend serves the built React app from `frontend/dist`. Set environment variables as shown in `backend/.env.example`.
 
-## 🧩 Modules
+##  Modules
 
 | # | Module | Description |
 |---|--------|-------------|
@@ -87,7 +87,7 @@ The backend serves the built React app from `frontend/dist`. Set environment var
 | 9 | Voter Report | Personalized voter profile with radar chart |
 | 10 | Story Mode | Guided first-time voter experience |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 votesmart/
@@ -111,5 +111,5 @@ votesmart/
 └── package.json              # Root scripts
 ```
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This app is for educational purposes only. It does not represent any real political party, candidate, or election outcome.
